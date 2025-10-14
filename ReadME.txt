@@ -1,5 +1,4 @@
-Hi its your friend Ali! 
-Here are some details you should know,
+
 
 Title:
 Disease Prediction Models for Fazi and Abdullah's FYP
